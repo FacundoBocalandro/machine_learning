@@ -65,11 +65,11 @@ Ls(h) =
 
 ### 1. What is a linear predictor? Assume that x ∈ Rp and y ∈ R
 
-
+A linear predictor is a linear function of its variables (x and y), which is used to predict values of the dependent variable (y).
 
 ### 2. What is a linear predictor assuming that p = 2?
 
-
+Is a linear predictor of 2 variables. Each data point will consist of a pair of values, and will be the input to the linear predictor function.
 
 ### 3. Write the expression for the sample error of a linear predictor using the squared error loss for general p?
 
