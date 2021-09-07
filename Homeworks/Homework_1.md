@@ -7,11 +7,11 @@
 
 ### 1. What is supervised ML?
 
-
+In supervised ML you are given n PAIRS of data points. The variables have a relationship, the problem is to discover it.
 
 ### 2. What is unsupervised ML?
 
-
+In unsupervised ML you are given n data points. The problem consists in discovering the pattern between the different values of the variable.
 
 ### 3. What is regression?
 
